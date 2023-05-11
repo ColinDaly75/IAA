@@ -42,10 +42,8 @@ level of agreement, even if we discount chance agreement. The large number of do
 in our experiment (565 docs) works to minimise the contribution of chance agreement. The
 high score may reflect that raters are expert in the field and little guessing is applied to anno-
 tations. There is a long-standing debate in the statistics community about whether a Likert
-survey represents an ordinal or an interval scale. Since the annotators in this experiment
-were aware to award 5 ’s sparingly, it can be argued that the intervals between neighbour-
-ing data points are unequal. This suggests that the appropriate agreement coefficients are
-sourced within the ordinal level
+survey represents an ordinal or an interval scale. In our case, the debate is irrelevant, 
+as the scores in both cases indicate a positive concordance.
 
 # Conclusion
 Regardless of how we interpret the spacing of measurement levels, the calculated ordinal and
