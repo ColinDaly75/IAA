@@ -17,7 +17,7 @@ In this notebook, I calculate the following Agreement coefficients
     
  
 # Methodology
-The dataset used to test the quality of the annotations includes 565 judgements for QD pairs, using two independent expert annotators (judges from within the organisation). The columns are presented with a Likert-scale as follows:-
+The dataset (attached MS Excel Speadsheet file) used to test the quality of the annotations includes 565 judgements for QD pairs, using two independent expert annotators (judges from within the organisation). The columns are presented with a Likert-scale as follows:-
 ![fig-proforma](https://github.com/ColinDaly75/IAA/assets/51714656/e8d14914-fc20-4ca8-9a94-59586e2f272c)
 
 
