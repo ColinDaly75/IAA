@@ -30,6 +30,23 @@ experiment was designed to answer the question whether the annotations in the EN
 SRCH dataset are reliable, given that a large portion of the QD pairs were judged by a single
 rater for a given query.
 
+
+# Results
+
+![image](https://github.com/ColinDaly75/IAA/assets/51714656/7ec7ed2d-3627-48bd-bcb3-4c0dfe7d4074)
+
+Given the variety of metrics, measurement levels and thresholds used to determine accept-
+able agreement, the results of any IAA experiment should be interpreted in the context of the
+experiment’s design and purpose. The PA score of 84.25% is very high and suggests a high
+level of agreement, even if we discount chance agreement. The large number of documents
+in our experiment (565 docs) works to minimise the contribution of chance agreement. The
+high score may reflect that raters are expert in the field and little guessing is applied to anno-
+tations. There is a long-standing debate in the statistics community about whether a Likert
+survey represents an ordinal or an interval scale. Since the annotators in this experiment
+were aware to award 5 ’s sparingly, it can be argued that the intervals between neighbour-
+ing data points are unequal. This suggests that the appropriate agreement coefficients are
+sourced within the ordinal level
+
 # Conclusion
 Regardless of how we interpret the spacing of measurement levels, the calculated ordinal and
 interval α scores (0.703 and 0.730 respectively) are both greater than Krippendorff’s mini-
